@@ -1,2 +1,17 @@
 # Изучение пользовательского спроса Яндекс Афиши
-[jpynb](https://github.com/katherinemacarrowa/Portfolio/blob/main/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B8/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.ipynb) [md](https://github.com/katherinemacarrowa/Portfolio/blob/main/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B8/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.md)
+
+[ipynb](https://github.com/katherinemacarrowa/Portfolio/blob/main/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B8/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.ipynb) [md](https://github.com/katherinemacarrowa/Portfolio/blob/main/%D0%9F%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B8/%D0%98%D0%B7%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B0%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%90%D1%84%D0%B8%D1%88%D0%B0.md)
+
+## Описание проекта
+Изучение изменений в пользовательском спросе сервиса Яндекс Афиши: сработал фактор сезонности, и пользователи поменяли предпочтения или изменилась аудитория. Разбираемся, какие события стали привлекать больше зрителей, а какие организаторы и площадки выбились в лидеры. 
+
+## Навыки и инструменты
+* python
+* pandas
+* matplotlib
+* seaborn
+
+## Общий вывод
+| Категория | Вывод | Данные/Метрика |
+| :--- | :--- | :--- |
+| **Общая динамика** | Рост числа заказов к осени | Июнь: 34 тыс. → Октябрь: 99 тыс. заказов |
